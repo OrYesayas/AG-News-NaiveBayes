@@ -1,4 +1,4 @@
-# AG News Text Classification — Multinomial Naive Bayes
+# AG News Text Classification - Multinomial Naive Bayes
 
 A multi-class text classification project that categorizes news articles into 4 categories (World, Sports, Business, Sci/Tech) using the [AG News Classification Dataset](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset) from Kaggle (120,000 training rows, 7,600 test rows).
 
